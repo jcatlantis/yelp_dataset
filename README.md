@@ -1,4 +1,4 @@
-# YELP dataset analysis:
+# YELP Dataset Analysis:
 
 - Exploratory Data Analysis (EDA)
 - Natural Language Processing (NLP)
